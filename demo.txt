@@ -1,2 +1,5 @@
 demo fajl
 novi komit
+
+Local development neki kao
+pravis neki feature
